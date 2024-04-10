@@ -1,0 +1,14 @@
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\obj\Debug\net8.0\cyberAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\obj\Debug\net8.0\cyberAcademy.AssemblyInfoInputs.cache
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\obj\Debug\net8.0\cyberAcademy.AssemblyInfo.cs
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\obj\Debug\net8.0\cyberAcademy.csproj.CoreCompileInputs.cache
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\bin\Debug\net8.0\cyberAcademy.exe
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\bin\Debug\net8.0\cyberAcademy.deps.json
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\bin\Debug\net8.0\cyberAcademy.runtimeconfig.json
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\bin\Debug\net8.0\cyberAcademy.dll
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\bin\Debug\net8.0\cyberAcademy.pdb
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\obj\Debug\net8.0\cyberAcademy.dll
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\obj\Debug\net8.0\refint\cyberAcademy.dll
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\obj\Debug\net8.0\cyberAcademy.pdb
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\obj\Debug\net8.0\cyberAcademy.genruntimeconfig.cache
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\obj\Debug\net8.0\ref\cyberAcademy.dll
