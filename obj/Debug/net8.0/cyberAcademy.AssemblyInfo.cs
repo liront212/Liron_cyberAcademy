@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cyberAcademy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fda89f0e0990816c312d3c2f8a5aeebf9e999010")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92b5745e880835e5fda491acf12eda7528c5956f")]
 [assembly: System.Reflection.AssemblyProductAttribute("cyberAcademy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cyberAcademy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

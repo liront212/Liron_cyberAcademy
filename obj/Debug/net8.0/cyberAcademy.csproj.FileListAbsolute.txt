@@ -12,3 +12,4 @@ C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\obj\Debug\net8.0\refint\cyberAcad
 C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\obj\Debug\net8.0\cyberAcademy.pdb
 C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\obj\Debug\net8.0\cyberAcademy.genruntimeconfig.cache
 C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\obj\Debug\net8.0\ref\cyberAcademy.dll
+C:\Users\jbt\Desktop\cyberAcademy\cyberAcademy\obj\Debug\net8.0\cyberAcademy.sourcelink.json

@@ -45,12 +45,29 @@ namespace cyberAcademy
                 this._DateOfBirth= _DateOfBirth;
                 this._MaritalStatus= _MaritalStatus;
             }
+            public static bool isvalid(string FirstName, string LastName, string _StudentID, string _DateOfBirth, string _MaritalStatus)
+            {
+                return (FirstName == null || FirstName == string.Empty);
+                return (LastName == null || LastName == string.Empty);
+                return (_StudentID == null || _StudentID == string.Empty);
+                return (_DateOfBirth == null || _DateOfBirth == string.Empty);
+                return (_MaritalStatus == null || _MaritalStatus == string.Empty);
+                Console.WriteLine();
+            }
         }        
 
     }
     
 }
 
-
+    //Console.WriteLine("invalid name try again");
+    //            if (LastName == null)
+    //                Console.WriteLine("invalid name try again");
+    //            if (_StudentID == null)
+    //                Console.WriteLine("invalid ID try again");
+    //            if (_DateOfBirth == null)
+    //                Console.WriteLine("invalid Date try again");
+    //            if (_MaritalStatus == null)
+    //                Console.WriteLine("invalid MaritalStatus try again");
 
 
